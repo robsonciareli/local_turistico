@@ -1,0 +1,70 @@
+:root {
+    font-family: "Open Sans", "Sans-serif";
+    color: #333333;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32p;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h1,h2,h3 {
+    color: #1b1b1b;
+}
+
+p {
+    font-size: 16px;
+}
+
+.paragraph {
+    font-weight: normal;
+}
+
+.headline {
+    font-weight: bold;
+    color: #E1624F;
+}
+
+.subtitle {
+    font-style: italic;
+    text-align: center;
+}
+
+.text-secundary, .accent-blue, .accent-purple, .accent-pink, .accent-orange {
+    font-weight: bold;
+}
+
+.accent-blue {
+    color: #0C51A7;
+}
+
+.accent-purple {
+    color: #591b98;
+}
+
+.accent-pink {
+    color: #E5245E;
+}
+
+.accent-orange {
+    color: #E95E10;
+}
+
+footer {
+    font-family: "Alice", serif;
+    text-align: center;
+}
+
+footer img {
+    vertical-align: middle;
+}
