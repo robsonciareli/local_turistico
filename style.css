@@ -12,9 +12,14 @@ body {
     background-color: #f5f4f0;
 }
 
+header {
+    width: 1120px;
+    margin: 88px auto 40px;
+}
+
 main {
     width: 1120px;
-    margin: 88px auto 65px;
+    margin: 0 auto 65px;
 }
 
 #image-description {
@@ -63,6 +68,10 @@ h3 {
 
 h1,h2,h3 {
     color: #1b1b1b;
+}
+
+ul li::marker {
+    color: #333333;
 }
 
 .title {
